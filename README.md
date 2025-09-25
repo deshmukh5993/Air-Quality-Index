@@ -25,4 +25,3 @@ The goal is to track pollution levels, identify the most/least polluted areas, a
 
 ## 📷 Sample Dashboard (Add Screenshot)
 ![Dashboard Placeholder]("E:\my project\Air Quality Index\Screenshot 2025-09-25 154355.png")
-# Air-Quality-Index
