@@ -24,4 +24,4 @@ The goal is to track pollution levels, identify the most/least polluted areas, a
 - Built easy-to-understand visuals for policymakers.
 
 ## 📷 Sample Dashboard (Add Screenshot)
-![Air Quality Dashboard]("E:\my project\Air Quality Index\Screenshot 2025-09-25 154355.png")
+![Air Quality Dashboard]("https://github.com/deshmukh5993/Air-Quality-Index/blob/main/Air%20Quality%20Dashboard.png")
